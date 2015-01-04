@@ -1,0 +1,7 @@
+INDEX VERSION 1.127
+/Users/tjohnson/projects/eclipse-java/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/8456231.index
+/MyTrustInsightProject/src
+/Users/tjohnson/projects/eclipse-java/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/12601217.index
+/date/src
+/Users/tjohnson/projects/eclipse-java/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/581609187.index
+/Hello World/src

@@ -1,0 +1,9 @@
+com.deviceinsight.api
+com.the41.insight.client
+com.the41.insight.client.digest
+com.the41.insight.client.http
+com.the41.insight.client.normalize
+com.the41.insight.client.trust
+com.the41.insight.client.trust.raw
+com.the41.insight.client.trust.request
+com.the41.insight.client.util
